@@ -1,0 +1,2 @@
+.App{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.App__button{font-size:10px}.App__title{text-align:center;font-size:20px;color:#6a6aff}.App__reset{margin-top:10px;width:160px;height:40px}.App__good{color:#818181}.App__good,.App__good--isactive{display:flex;justify-content:space-between;align-items:center;height:30px;width:160px;list-style-type:none}.App__good--isactive{font-weight:700;color:rgba(158,255,202,.788)}
+/*# sourceMappingURL=main.5c38d0fc.chunk.css.map */
